@@ -1,5 +1,5 @@
 Name:		python-cargo2rpm
-Version:	0.1.3
+Version:	0.1.14
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/c/cargo2rpm/cargo2rpm-%{version}.tar.gz
 Summary:	Translation layer between cargo and RPM
