@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/cargo2rpm/
 License:	MIT
 Group:		Development/Python
 BuildSystem:	python
+BuildRequires:	python%{pyver}dist(setuptools)
 BuildRequires:	python%{pyver}dist(pip)
 BuildArch:	noarch
 
